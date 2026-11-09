@@ -17,13 +17,7 @@ The modeling requirements also cover the audit and evaluation scripts. Dependenc
 
 Obtain the daily VIX historical CSV from [Cboe](https://www.cboe.com/tradable-products/vix/vix-historical-data/) and save it as `data/VIX_History.csv`. Required columns: DATE, OPEN, HIGH, LOW, CLOSE.
 
-The recorded snapshot was downloaded October 16, 2026, and spans January 2, 1990–October 16, 2026. Its SHA-256 is:
-
-```text
-a9742d4deab98f7644bda10df92db0b6afbca17ccc8b64139c52ad2ca0963d42
-```
-
-Exact reproduction requires that snapshot. A current download may contain additions or revisions; check the checksum recorded by the audit. Raw data are excluded from Git; retain the snapshot locally and follow applicable redistribution terms.
+The recorded snapshot was downloaded October 16, 2026, and spans January 2, 1990–October 16, 2026. A current download may contain additions or revisions; check the checksum recorded by the audit. Raw data are excluded from Git.
 
 ## Reproduce
 
