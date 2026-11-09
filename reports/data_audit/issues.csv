@@ -1,0 +1,90 @@
+csv_line,date,field,issue
+535,02/11/1992,OHLC,inconsistent high/low bounds
+540,02/19/1992,OHLC,inconsistent high/low bounds
+670,08/24/1992,OHLC,inconsistent high/low bounds
+673,08/27/1992,OHLC,inconsistent high/low bounds
+686,09/16/1992,OHLC,inconsistent high/low bounds
+703,10/09/1992,OHLC,inconsistent high/low bounds
+724,11/09/1992,OHLC,inconsistent high/low bounds
+733,11/20/1992,OHLC,inconsistent high/low bounds
+745,12/09/1992,OHLC,inconsistent high/low bounds
+753,12/21/1992,OHLC,inconsistent high/low bounds
+755,12/23/1992,OHLC,inconsistent high/low bounds
+814,03/19/1993,OHLC,inconsistent high/low bounds
+834,04/19/1993,OHLC,inconsistent high/low bounds
+841,04/28/1993,OHLC,inconsistent high/low bounds
+864,06/01/1993,OHLC,inconsistent high/low bounds
+893,07/13/1993,OHLC,inconsistent high/low bounds
+894,07/14/1993,OHLC,inconsistent high/low bounds
+938,09/15/1993,OHLC,inconsistent high/low bounds
+960,10/15/1993,OHLC,inconsistent high/low bounds
+968,10/27/1993,OHLC,inconsistent high/low bounds
+970,10/29/1993,OHLC,inconsistent high/low bounds
+987,11/23/1993,OHLC,inconsistent high/low bounds
+988,11/24/1993,OHLC,inconsistent high/low bounds
+991,11/30/1993,OHLC,inconsistent high/low bounds
+1016,01/05/1994,OHLC,inconsistent high/low bounds
+1034,01/31/1994,OHLC,inconsistent high/low bounds
+1039,02/07/1994,OHLC,inconsistent high/low bounds
+1050,02/23/1994,OHLC,inconsistent high/low bounds
+1059,03/08/1994,OHLC,inconsistent high/low bounds
+1061,03/10/1994,OHLC,inconsistent high/low bounds
+1063,03/14/1994,OHLC,inconsistent high/low bounds
+1077,04/04/1994,OHLC,inconsistent high/low bounds
+1194,09/20/1994,OHLC,inconsistent high/low bounds
+1257,12/19/1994,OHLC,inconsistent high/low bounds
+1300,02/21/1995,OHLC,inconsistent high/low bounds
+1461,10/10/1995,OHLC,inconsistent high/low bounds
+1522,01/08/1996,OHLC,inconsistent high/low bounds
+1548,02/13/1996,OHLC,inconsistent high/low bounds
+1585,04/08/1996,OHLC,inconsistent high/low bounds
+2029,01/12/1998,OHLC,inconsistent high/low bounds
+2101,04/27/1998,OHLC,inconsistent high/low bounds
+2247,11/20/1998,OHLC,inconsistent high/low bounds
+2336,04/01/1999,OHLC,inconsistent high/low bounds
+3200,09/11/2002,OHLC,inconsistent high/low bounds
+3736,10/26/2004,OHLC,inconsistent high/low bounds
+3745,11/08/2004,OHLC,inconsistent high/low bounds
+4060,02/08/2006,OHLC,inconsistent high/low bounds
+,1991-03-01,DATE,missing expected session (CBOE calendar)
+,1997-01-31,DATE,missing expected session (CBOE calendar)
+,1997-11-26,DATE,missing expected session (CBOE calendar)
+,1999-12-31,DATE,missing expected session (CBOE calendar)
+,2001-09-11,DATE,missing expected session (CBOE calendar)
+,2001-09-12,DATE,missing expected session (CBOE calendar)
+,2001-09-13,DATE,missing expected session (CBOE calendar)
+,2001-09-14,DATE,missing expected session (CBOE calendar)
+,2004-06-11,DATE,observation on CBOE calendar closure
+,2022-05-30,DATE,observation on CBOE calendar closure
+,2022-06-20,DATE,observation on CBOE calendar closure
+,2022-07-04,DATE,observation on CBOE calendar closure
+,2022-09-05,DATE,observation on CBOE calendar closure
+,2022-11-24,DATE,observation on CBOE calendar closure
+,2023-01-16,DATE,observation on CBOE calendar closure
+,2023-02-20,DATE,observation on CBOE calendar closure
+,2023-05-29,DATE,observation on CBOE calendar closure
+,2023-06-19,DATE,observation on CBOE calendar closure
+,2023-07-04,DATE,observation on CBOE calendar closure
+,2023-09-04,DATE,observation on CBOE calendar closure
+,2023-11-23,DATE,observation on CBOE calendar closure
+,2024-01-15,DATE,observation on CBOE calendar closure
+,2024-02-19,DATE,observation on CBOE calendar closure
+,2024-05-27,DATE,observation on CBOE calendar closure
+,2024-06-19,DATE,observation on CBOE calendar closure
+,2024-07-04,DATE,observation on CBOE calendar closure
+,2024-09-02,DATE,observation on CBOE calendar closure
+,2024-11-28,DATE,observation on CBOE calendar closure
+,2025-01-09,DATE,observation on CBOE calendar closure
+,2025-01-20,DATE,observation on CBOE calendar closure
+,2025-02-17,DATE,observation on CBOE calendar closure
+,2025-05-26,DATE,observation on CBOE calendar closure
+,2025-06-19,DATE,observation on CBOE calendar closure
+,2025-07-04,DATE,observation on CBOE calendar closure
+,2025-09-01,DATE,observation on CBOE calendar closure
+,2025-11-27,DATE,observation on CBOE calendar closure
+,2026-01-19,DATE,observation on CBOE calendar closure
+,2026-02-16,DATE,observation on CBOE calendar closure
+,2026-05-25,DATE,observation on CBOE calendar closure
+,2026-06-19,DATE,observation on CBOE calendar closure
+,2026-07-03,DATE,observation on CBOE calendar closure
+,2026-09-07,DATE,observation on CBOE calendar closure

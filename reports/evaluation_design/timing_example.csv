@@ -1,0 +1,41 @@
+role,step,date,close
+input,-19,2015-12-03,18.11
+input,-18,2015-12-04,14.81
+input,-17,2015-12-07,15.84
+input,-16,2015-12-08,17.6
+input,-15,2015-12-09,19.61
+input,-14,2015-12-10,19.34
+input,-13,2015-12-11,24.39
+input,-12,2015-12-14,22.73
+input,-11,2015-12-15,20.95
+input,-10,2015-12-16,17.86
+input,-9,2015-12-17,18.94
+input,-8,2015-12-18,20.7
+input,-7,2015-12-21,18.7
+input,-6,2015-12-22,16.6
+input,-5,2015-12-23,15.57
+input,-4,2015-12-24,15.74
+input,-3,2015-12-28,16.91
+input,-2,2015-12-29,16.08
+input,-1,2015-12-30,17.29
+input,0,2015-12-31,18.21
+future session (not an input),1,2016-01-04,20.7
+future session (not an input),2,2016-01-05,19.34
+future session (not an input),3,2016-01-06,20.59
+future session (not an input),4,2016-01-07,24.99
+future session (not an input),5,2016-01-08,27.01
+future session (not an input),6,2016-01-11,24.3
+future session (not an input),7,2016-01-12,22.47
+future session (not an input),8,2016-01-13,25.22
+future session (not an input),9,2016-01-14,23.95
+future session (not an input),10,2016-01-15,27.02
+future session (not an input),11,2016-01-19,26.05
+future session (not an input),12,2016-01-20,27.59
+future session (not an input),13,2016-01-21,26.69
+future session (not an input),14,2016-01-22,22.34
+future session (not an input),15,2016-01-25,24.15
+future session (not an input),16,2016-01-26,22.5
+future session (not an input),17,2016-01-27,23.11
+future session (not an input),18,2016-01-28,22.42
+future session (not an input),19,2016-01-29,20.2
+future session (not an input),20,2016-02-01,19.98

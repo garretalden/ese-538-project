@@ -1,0 +1,13 @@
+Command: .venv/bin/python -m unittest discover -s scripts -p test_audit_vix.py -v
+
+test_early_close_and_extraordinary_closure (test_audit_vix.AuditTests.test_early_close_and_extraordinary_closure) ... ok
+test_historical_calendar_disagreement (test_audit_vix.AuditTests.test_historical_calendar_disagreement) ... ok
+test_known_defects (test_audit_vix.AuditTests.test_known_defects) ... ok
+test_labor_day_and_christmas (test_audit_vix.AuditTests.test_labor_day_and_christmas) ... ok
+test_missing_session_and_observed_closure (test_audit_vix.AuditTests.test_missing_session_and_observed_closure) ... ok
+test_period_boundaries_and_weekday_gap (test_audit_vix.AuditTests.test_period_boundaries_and_weekday_gap) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 3.136s
+
+OK

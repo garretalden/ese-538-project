@@ -1,0 +1,21 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Operating-system metadata
+.DS_Store
+
+# Raw dataset; retain generated CSV evidence in reports/
+/data/*.csv
+
+# Temporary working files
+/tmp/
+
+#
+/guidelines/
+/archive/
+

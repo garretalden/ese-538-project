@@ -1,0 +1,2 @@
+pandas_market_calendars==5.6.0
+pandas==3.0.6

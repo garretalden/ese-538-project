@@ -1,0 +1,45 @@
+{
+  "source_sha256": "a9742d4deab98f7644bda10df92db0b6afbca17ccc8b64139c52ad2ca0963d42",
+  "generated_utc": "2026-11-09T20:26:51.218967+00:00",
+  "calendar_version": "5.6.0",
+  "horizons": [
+    5,
+    10,
+    20
+  ],
+  "lag_grid": [
+    20
+  ],
+  "ridge_alpha_grid": [
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "fit_eligible_counts": {
+    "training": {
+      "1": 6429,
+      "5": 6405,
+      "10": 6375,
+      "20": 6315
+    },
+    "final_refit": {
+      "1": 7688,
+      "5": 7664,
+      "10": 7634,
+      "20": 7574
+    }
+  },
+  "common_origin_counts": {
+    "validation": 1240,
+    "reserved_test": 1236
+  },
+  "checks": {
+    "ordered_unique_dates": true,
+    "mature_fit_labels": true,
+    "evaluation_targets_within_period": true,
+    "common_origins_all_horizons": true,
+    "explicit_example_dates_match": true
+  },
+  "status": "Timing checks executed; model results are generated separately by train_ridge.py; bootstrap remains planned"
+}

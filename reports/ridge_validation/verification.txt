@@ -1,0 +1,12 @@
+Command: .venv/bin/python -m unittest discover -s scripts -p test_ridge.py -v
+
+Matplotlib is building the font cache; this may take a moment.
+test_date_boundaries_and_common_sample (test_ridge.RidgeTests.test_date_boundaries_and_common_sample) ... ok
+test_hand_computable_recursive_feedback (test_ridge.RidgeTests.test_hand_computable_recursive_feedback) ... ok
+test_rollout_matches_manual_raw_feedback (test_ridge.RidgeTests.test_rollout_matches_manual_raw_feedback) ... ok
+test_scaling_fitted_only_on_training (test_ridge.RidgeTests.test_scaling_fitted_only_on_training) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 1.061s
+
+OK
